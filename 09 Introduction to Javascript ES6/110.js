@@ -1,0 +1,1 @@
+// using the slice() function cut out the extra words/letters in the tweet

@@ -1,0 +1,12 @@
+
+ <%-include("partials/header.ejs")-%>
+    <h1>Home</h1>
+    <p><%=val%></p>
+    <% for(let i=0;i<arr.length;i++){ %>
+      <h1><%=arr[i].postT%></h1>
+      <br>
+      <p><%=arr[i].postB.substring(0, 100)%> <a href=<%=arr[i].postP%>>Read More</a></p>
+    <%}%>
+    <!-- <p><%=val%></p> -->
+ <%-include("partials/footer.ejs")-%>
+

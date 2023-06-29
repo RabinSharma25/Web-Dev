@@ -1,0 +1,18 @@
+h1 {
+  color: red;
+}
+
+/* .btn{
+  background-color: yellow;
+} */
+
+.huge{
+  font-size: 10rem;
+}
+
+.new{
+  font-size: 5rem;
+  color:aqua;
+  background-color: red;
+  font-family: sans-serif;
+}

@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+}
+
+.para{
+
+    color: red;
+    font-size: 6rem;
+    font-family: cursive;
+
+}
+
+.inside-elem{
+    color:blue;
+    font-size: 2rem;
+}

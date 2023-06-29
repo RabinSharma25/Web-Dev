@@ -1,0 +1,21 @@
+/* ****************** Tag Selecotrs ***************** */
+h1
+{
+    color: aqua;
+}
+
+img{
+    background-color: red;
+
+}
+
+/* ******************** Class Selectors **************** */
+.broccoli{
+
+background-color: blue;
+}
+
+
+.bacon{
+background-color: green;
+}

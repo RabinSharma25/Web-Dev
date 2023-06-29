@@ -1,0 +1,22 @@
+
+body {
+    background-color: #EDEDED;
+}
+
+hr {
+    height: 3px;
+    width: 10%;
+    border-width: 10px;
+    border-color: darkolivegreen;
+    border-style: dotted none none;
+
+}
+
+h1{
+color: #5F9DF7;
+}
+
+h3{
+    font-style: italic;
+color: #5F9DF7;
+}
